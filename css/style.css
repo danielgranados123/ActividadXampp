@@ -124,7 +124,7 @@ button:hover:before,button:hover:after{
 	border-radius: 5px;
 	overflow: hidden;
 	margin:  auto;
-	height: 500px;
+	height: 550px;
 	width: 90%;
 }
 
@@ -152,7 +152,8 @@ button:hover:before,button:hover:after{
 	position: relative;
 	text-align: left;
 	overflow: hidden;
-	padding: 30px;
+	padding: 40px;
+	padding-right: 0px;
 	height: 100%;
 	float: left;
 	width: 45%;
