@@ -128,25 +128,10 @@ button:hover:before,button:hover:after{
 	width: 90%;
 }
 
-#containerEmpre.bill {
+#containerEmpre.Servidores {
     height: 650px;
 }
 
-#containerEmpre.steve {
-    height: 700px;
-}
-
-#containerEmpre.mark {
-    height: 700px;
-}
-
-#containerEmpre.google{
-	height: 550px;
-}
-
-#containerEmpre.daniel{
-	height: 500px;
-}
 
 .product-details {
 	position: relative;
